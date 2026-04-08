@@ -1,6 +1,6 @@
 # TourAgent — Seoul Weather Data Pipeline
 
-**Team project (AI-TOMIC)** · Python · Data Engineering · 2024
+**Team project (AI-TOMIC)** · Python · Data Engineering · 2025
 
 A geospatial weather data pipeline that collects real-time forecast data for Seoul's top 120 tourist attractions from the Korea Meteorological Administration (KMA) API. Built as the data layer for a LangGraph-based RAG travel recommendation agent.
 
